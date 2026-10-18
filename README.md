@@ -43,7 +43,7 @@
 ### ☁️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,bash,python,c,cpp,java,js,html,css,react,php,git,github&theme=dark" alt="My Skills" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonordemoura&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=a6e3a1&cache_seconds=1800" />
 </div>
 
 <br />
