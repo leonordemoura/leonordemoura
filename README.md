@@ -50,6 +50,15 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonordemoura&show_icons=true&theme=catppuccin_mocha&hide_border=true&title_color=a6e3a1&icon_color=a6e3a1" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonordemoura&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=a6e3a1" />
+</div>
+
+<br />
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=a6e3a1&height=100&section=footer" width="100%" />
 </div>
