@@ -43,7 +43,7 @@
 ### ☁️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,bash,python,c,cpp,java,js,html,css,react,php,assembly,git,github&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,python,c,cpp,java,js,html,css,react,php,riscv,git,github&theme=dark" alt="My Skills" />
 </div>
 
 <br />
