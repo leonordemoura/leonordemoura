@@ -7,8 +7,6 @@
 
   <br />
 
-  <!-- Animated Cute Banner / Mascot -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5Y2ZicnkycmZnbnd0dDFpMmg5MHoweTN5bnhvbmZhZjMxcGpmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="180px" alt="Cute Cat GIF" />
 
   <h1>✨ Hello, World! I'm a 3rd-Year Computer Engineering Student ✨</h1>
 
@@ -43,7 +41,7 @@
 ### ☁️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,bash,python,c,c++,java,js,html,css,react,php,assembly,git,github&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,python,c,cpp,java,js,html,css,react,php,assembly,git,github&theme=dark" alt="My Skills" />
 </div>
 
 <br />
