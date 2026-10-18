@@ -12,7 +12,7 @@
 
   <h1>✨ Hello, World! I'm Leonor ✨</h1>
 
-  <p><i>3rd-Year Computer Engineering Student | Passionate about Cloud, Security & Automation ☁️🛡️⚡</i></p>
+  <p><i>3rd-Year Informatics Engineering Student | Passionate about Cloud, Security & Automation ☁️🛡️⚡</i></p>
 
   <!-- Badges em Verde -->
   <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cybersecurity-a6e3a1?style=for-the-badge&logoColor=1e1e2e" />
