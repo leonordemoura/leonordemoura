@@ -51,9 +51,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonordemoura&show_icons=true&theme=catppuccin_mocha&hide_border=true&title_color=a6e3a1&icon_color=a6e3a1" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonordemoura&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=a6e3a1" />
 </div>
 
