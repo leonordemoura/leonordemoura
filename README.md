@@ -7,8 +7,7 @@
 
   <br />
 
-  <!-- Cute Cat GIF Functional & Animated -->
-  <img src="https://raw.githubusercontent.com/cat-ppuccin/cat-ppuccin/main/assets/cat.gif" width="160px" alt="Cute Cat GIF" />
+ 
 
   <h1>✨ Hello, World! I'm Leonor ✨</h1>
 
